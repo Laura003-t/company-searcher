@@ -8,6 +8,5 @@ It’s a live form project that demonstrates my ability to build and share funct
 ---
 
 ## 📸 Preview
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6542a3ef-0ed4-44da-9c86-f6902977a446" />
 
-
+<img width="1366" height="661" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/019a10de-1636-4d16-baff-ea1076526cb9" />
